@@ -54,7 +54,7 @@ class Evolution_Image {
     private $shortcode_tag = 'evolution_image';
 
     /**
-     * Consturctor will setup everyting. It is the initializer :D
+     * Constructor will setup everything. It is the initializer :D
      */
     public function __construct() {
         // Enqueue dependency assets
